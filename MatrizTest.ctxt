@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testConstructorConDimension()
+comment0.text=\r\n\ Metodo\ de\ prueba\ para\ el\ constructor\ con\ parametro\ dimension.\ \ \r\n
+comment1.params=
+comment1.target=void\ testIntercambiaDiagonales()
+comment1.text=\r\n\ Metodo\ de\ prueba\ para\ intercambiaDiagonales()\ \r\n\ con\ matriz\ est\u00E1tica\ pasada\ a\ constructor\r\n\ ---ORIGEN---\r\n\ \ 11\ 22\ 33\ 44\ \r\n\ \ 12\ 23\ 34\ 45\ \r\n\ \ 13\ 24\ 35\ 46\ \r\n\ \ 14\ 25\ 36\ 47\ \r\n\ ---TRANSF---\r\n\ \ 44\ 22\ 33\ 11\ \r\n\ \ 12\ 34\ 23\ 45\ \r\n\ \ 13\ 35\ 24\ 46\ \r\n\ \ 47\ 25\ 36\ 14\ \r\n
+comment2.params=
+comment2.target=void\ testIntercambiaFilasImpares()
+comment2.text=\r\n\ Metodo\ de\ prueba\ para\ intercambiaFilasImpares\r\n\ Verifica\ los\ valores\ esperados\ despues\ de\ llamar\ al\ metodo.\ \r\n\ ---ORIGEN---\r\n\ \ 11\ 22\ 33\ 44\ \r\n\ \ 14\ 25\ 36\ 47\ \r\n\ \ 13\ 24\ 35\ 46\ \r\n\ \ 12\ 23\ 34\ 45\ \r\n\ ---TRANSF---\r\n\ \ 11\ 22\ 33\ 44\ \r\n\ \ 14\ 25\ 36\ 47\ \r\n\ \ 13\ 24\ 35\ 46\ \r\n\ \ 12\ 23\ 34\ 45\ \r\n\r\n
+comment3.params=
+comment3.target=void\ testIntercambiaColumnasPares()
+comment3.text=\r\n\ Metodo\ de\ prueba\ para\ intercambio\ de\ columnas\ pares.\ \r\n\ ---ORIGEN---\r\n\ \ 11\ 22\ 33\ 44\ \r\n\ \ 12\ 23\ 34\ 45\ \r\n\ \ 13\ 24\ 35\ 46\ \r\n\ \ 14\ 25\ 36\ 47\ \r\n\ ---TRANSF---\r\n\ \ 33\ 22\ 11\ 44\ \r\n\ \ 34\ 23\ 12\ 45\ \r\n\ \ 35\ 24\ 13\ 46\ \r\n\ \ 36\ 25\ 14\ 47\ \r\n\ \ \r\n
+comment4.params=
+comment4.target=void\ testRotarNoventaDerecha()
+comment4.text=\r\n\ Metodo\ de\ prueba\ para\ rotacion\ de\ 90\ a\ la\ derecha\ \r\n\ ---ORIGEN---\r\n\ \ 11\ 22\ 33\ 44\ \r\n\ \ 12\ 23\ 34\ 45\ \ \r\n\ \ 13\ 24\ 35\ 46\ \r\n\ \ 14\ 25\ 36\ 47\ \r\n\ ---TRANSF---\r\n\ \ 14\ 13\ 12\ 11\ \r\n\ \ 25\ 24\ 23\ 22\ \r\n\ \ 36\ 35\ 34\ 33\ \r\n\ \ 47\ 46\ 45\ 44\ \r\n
+comment5.params=
+comment5.target=void\ testRotarNoventaIzquierda()
+comment5.text=\r\n\ Metodo\ de\ prueba\ para\ rotacion\ de\ 90\ a\ la\ derecha\ \r\n\ ---ORIGEN---\r\n\ \ 11\ 22\ 33\ 44\ \r\n\ \ 12\ 23\ 34\ 45\ \r\n\ \ 13\ 24\ 35\ 46\ \r\n\ \ 14\ 25\ 36\ 47\ \ \r\n\ ---TRANSF---\r\n\ \ 44\ 45\ 46\ 47\ \r\n\ \ 33\ 34\ 35\ 36\ \r\n\ \ 22\ 23\ 24\ 25\ \r\n\ \ 11\ 12\ 13\ 14\ \r\n
+comment6.params=
+comment6.target=void\ testZigZagColumnasImpares()
+comment6.text=\r\n\ Metodo\ de\ prueba\ zig-zag\ columnas\ impares\r\n\ ---ORIGEN---\r\n\ 11\ 22\ 33\ 44\ \r\n\ 12\ 23\ 34\ 45\ \r\n\ 13\ 24\ 35\ 46\ \r\n\ 14\ 25\ 36\ 47\ \r\n\ ---TRANSF---\r\n\ 11\ 25\ 33\ 47\ \r\n\ 12\ 24\ 34\ 46\ \r\n\ 13\ 23\ 35\ 45\ \r\n\ 14\ 22\ 36\ 44\ \r\n
+comment7.params=
+comment7.target=void\ testZigZagFilasImpares()
+comment7.text=\r\n\ Metodo\ de\ prueba\ zig-zag\ filas\ impares\r\n\ ---ORIGEN---\r\n\ 11\ 22\ 33\ 44\ \r\n\ 12\ 23\ 34\ 45\ \r\n\ 13\ 24\ 35\ 46\ \r\n\ 14\ 25\ 36\ 47\ \r\n\ ---TRANSF---\r\n\ 11\ 22\ 33\ 44\ \ \r\n\ 45\ 34\ 23\ 12\ \r\n\ 13\ 24\ 35\ 46\ \r\n\ 47\ 36\ 25\ 14\ \r\n
+numComments=8
